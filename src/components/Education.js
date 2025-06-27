@@ -1,7 +1,7 @@
 export default function Education() {
   return (
     <section id="education">
-      <h2>Education</h2>
+      <h2 style={{ textAlign: 'center' }}>Education</h2>
       <ul>
         <li>
           <h3>Doctor of Philosophy in Pharmacy and Pharmaceutical Sciences (AI and Computational Chemistry Focus)</h3>

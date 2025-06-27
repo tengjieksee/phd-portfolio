@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <section id="projects">
-      <h2>Projects</h2>
+      <h2 style={{ textAlign: 'center' }}>Projects</h2>
       <ul>
         <li>
           <h3>AI Research Agent</h3>

@@ -1,7 +1,7 @@
 export default function Publications() {
   return (
     <section id="publications">
-      <h2>Publications</h2>
+      <h2 style={{ textAlign: 'center' }}>Publications</h2>
       <ul>
         <li>
           <h3>"Efficient Transformers for Long Documents", NeurIPS 2023</h3>

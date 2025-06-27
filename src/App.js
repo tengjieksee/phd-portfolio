@@ -9,8 +9,9 @@ import Skills from './components/Skills';
 import Education from './components/Education';
 
 function App() {
+  const sectionStyle = { marginBottom: '1px' };
   return (
-    <>
+    <div style={{ backgroundColor: '#fffacd' }}>
       <Navbar />
       <Home />
       <About />
@@ -19,7 +20,7 @@ function App() {
       <Skills />
       <Publications />
       <Contact />
-    </>
+    </div>
   );
 }
 

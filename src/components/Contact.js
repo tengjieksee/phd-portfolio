@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <section id="contact">
+    <section id="contact" className="home-section">
       <h2>Contact</h2>
       <p>Email: teng.jiek.see@gmail.com</p>
       <p>LinkedIn: linkedin.com/in/jack-see-096212244</p>

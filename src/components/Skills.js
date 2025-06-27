@@ -1,7 +1,7 @@
 export default function Skills() {
   return (
     <section id="skills">
-      <h2>Skills</h2>
+      <h2 style={{ textAlign: 'center' }}>Skills</h2>
       <ul>
         <li>
           <h3>Languages</h3>
