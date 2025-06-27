@@ -3,7 +3,7 @@ export default function About() {
     <section id="about">
       <h2>About Me</h2>
       <img
-        src="/asset/photo_linkedin.jpg"
+        src="https://media.licdn.com/dms/image/v2/D5603AQEbqtrwcq1hmQ/profile-displayphoto-shrink_800_800/B56ZWKKCUpHoAg-/0/1741779643321?e=1756339200&v=beta&t=OpNZpmZLlIWtUGwnldOir-yOXdrEh3HxbmBRgGjzB-Q"
         alt="Profile picture"
         style={{ width: '150px', borderRadius: '50%', marginBottom: '1rem' }}
       />
