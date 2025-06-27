@@ -17,6 +17,13 @@ export default function Publications() {
             demonstrating improvements in tasks such as VQA and image captioning.
           </p>
         </li>
+        <li>
+          <h3>"Multi-modal Reasoning with Visual Language Models", ICML 2022</h3>
+          <p>
+            We explore how visual and textual data can be jointly reasoned about using large-scale language models,
+            demonstrating improvements in tasks such as VQA and image captioning.
+          </p>
+        </li>
       </ul>
     </section>
   );
